@@ -19,6 +19,7 @@ function App() {
     <Route path="P3details" element={<P3details/>}/>
     <Route path="P4details" element={<P4details/>}/>
     <Route path="P5details" element={<P5details/>}/>
+  //hello
     <Route path="P6details" element={<P6details/>}/>
    </Routes>
    </BrowserRouter>
